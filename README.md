@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Rabbani2001/DSA_Java/tree/master/0001-two-sum) |
+| [0031-next-permutation](https://github.com/Rabbani2001/DSA_Java/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Rabbani2001/DSA_Java/tree/master/0075-sort-colors) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Rabbani2001/DSA_Java/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/Rabbani2001/DSA_Java/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Rabbani2001/DSA_Java/tree/master/0075-sort-colors) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Rabbani2001/DSA_Java/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Sorting
